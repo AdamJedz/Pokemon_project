@@ -1,5 +1,11 @@
+"""
+Data loader reads the csv data from /Data folder. Default data name is 'pokedex.csv'
+
+Example:
+    python Scripts/load_data.py pokedex
+"""
+
 import pandas as pd
-import numpy as np
 import logging
 
 logging.basicConfig(

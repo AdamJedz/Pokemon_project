@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="384e128d-a784-4540-82d3-d40c002f8abe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/scratch.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/load_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="architektura_folderow" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +70,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.load_data" />
+        <item itemvalue="Python.load_data" />
       </list>
     </recent_temporary>
   </component>
@@ -108,10 +109,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="114" width="836" height="811" key="CommitChangelistDialog2" timestamp="1597136347042">
+    <state x="614" y="114" width="836" height="811" key="CommitChangelistDialog2" timestamp="1597210911881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="114" width="836" height="811" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597136347042" />
+    <state x="614" y="114" width="836" height="811" key="CommitChangelistDialog2/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597210911881" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1597135985616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
