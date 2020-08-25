@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="384e128d-a784-4540-82d3-d40c002f8abe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/qual_vars/1. Single qualitative variables analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/qual_vars/1. Single qualitative variables analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/qual_vars/.ipynb_checkpoints/2. Qualitatives vs each other-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/qual_vars/.ipynb_checkpoints/2. Qualitatives vs each other-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notebooks/qual_vars/2. Qualitatives vs each other.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/qual_vars/2. Qualitatives vs each other.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
